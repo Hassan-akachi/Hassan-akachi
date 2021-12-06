@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Hassan
 - 👀 I’m interested in android development
-- 🌱 I’m currently learning koitlin and react
+-   expert in mobile development using java
+- 🌱 I’m currently learning kotlin and flutter
 - 💞️ I’m looking to collaborate on any startup project
 - 📫 How to reach me 08161653200, hassansorunke@gmail.com
+- 
 
 
 <!---
