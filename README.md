@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassan
-- 👀 I’m interested in android development
--   expert in mobile development using java
+- 👀 I’m interested in android development for native android and cross platform 
+-   intermediate in mobile development using Flutter and Kotlin
 - 🌱 I’m currently learning kotlin and flutter
 - 💞️ I’m looking to collaborate on any startup project
 - 📫 How to reach me 08161653200, hassansorunke@gmail.com
