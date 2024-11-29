@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hassansorunke@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13sdMBTKKrWWp4nKVFED78UgbfnK1tSlE/view?usp=drive_link](https://drive.google.com/file/d/13sdMBTKKrWWp4nKVFED78UgbfnK1tSlE/view?usp=drive_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1J05cmPVZt4TQpEg81f0XIcm4i7QILgHhy3Fw_8hqtFc/edit?usp=drive_link](https://docs.google.com/document/d/1J05cmPVZt4TQpEg81f0XIcm4i7QILgHhy3Fw_8hqtFc/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
