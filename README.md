@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning **Flutter,Java,Kotlin**
+- 🌱 #3+ years developing mobile apps**Flutter,Java,Kotlin,React native**
 
 - 💬 Ask me about **Flutter,Dart and Java**
 
