@@ -5,11 +5,13 @@
   </a>
 </h1>
 
-- 🌱 #3+ years developing mobile apps**Flutter,Java,Kotlin,React native**
+- 🌱 #Developing Mobile apps**Flutter,Java,Kotlin,React native**
 
 - 💬 Ask me about **Flutter,Dart and Java**
 
 - 📫 How to reach me **hassansorunke@gmail.com**
+  
+- see more on https://hassan-akachi.github.io/
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1J05cmPVZt4TQpEg81f0XIcm4i7QILgHhy3Fw_8hqtFc/edit?usp=drive_link](https://docs.google.com/document/d/1J05cmPVZt4TQpEg81f0XIcm4i7QILgHhy3Fw_8hqtFc/edit?usp=drive_link)
 
@@ -22,6 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-akachi&show_icons=true&locale=en&layout=compact" alt="hassan-akachi" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-akachi&show_icons=true&locale=en&layout=compact" alt="hassan-akachi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-akachi&" alt="hassan-akachi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-akachi&" alt="hassan-akachi" /></p> -->
